@@ -1,3 +1,15 @@
+# CryptoDex
+
+This is an application using two API's via RapidAPi; CoinRanking and Bing News Search. These have been used to pull the latest data on Cryptocurrencies, both in terms of trading and current news. 
+
+The application has been written in React and uses AntDesign to assist with layout and style. Redux is also impleted to help with State management where necessary.
+
+The application is fully responsive, working on screens of all sizes. 
+
+Finally, I do have the exchanges page to complete for this project.
+
+Anything below is automatically generated.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
