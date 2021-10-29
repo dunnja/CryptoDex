@@ -1,5 +1,7 @@
 # CryptoDex
 
+## https://heuristic-cray-1a83b6.netlify.app/
+
 This is an application using two API's via RapidAPi; CoinRanking and Bing News Search. These have been used to pull the latest data on Cryptocurrencies, both in terms of trading and current news. 
 
 The application has been written in React and uses AntDesign to assist with layout and style. Redux is also impleted to help with State management where necessary.
