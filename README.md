@@ -1,6 +1,6 @@
 # CryptoDex
 
-## https://heuristic-cray-1a83b6.netlify.app/
+## Live Site - https://heuristic-cray-1a83b6.netlify.app/
 
 This is an application using two API's via RapidAPi; CoinRanking and Bing News Search. These have been used to pull the latest data on Cryptocurrencies, both in terms of trading and current news. 
 
