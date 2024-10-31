@@ -1,3 +1,5 @@
+# ******* THIS IS NO LONGER FUNCTIONING *******
+
 # CryptoDex
 
 ## Live Site - https://thecryptodex.netlify.app/
